@@ -1,0 +1,26 @@
+{
+  "name": "adventofcode_22",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+      "build": "tsc --build",
+      "clean": "tsc --build --clean"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/philippBa13/AdventOfCode_22.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/philippBa13/AdventOfCode_22/issues"
+  },
+  "homepage": "https://github.com/philippBa13/AdventOfCode_22#readme",
+  "devDependencies": {
+    "@types/node": "^18.11.10",
+    "typescript": "^4.9.3"
+  }
+}
